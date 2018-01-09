@@ -4749,6 +4749,14 @@
       "script": "cdn\\.mykamva\\.ir",
       "website": "https://kamva.ir"
     },
+    "KeystoneJS": {
+      "cats": [
+        "1"
+      ],
+      "icon": "KeystoneJS.svg",
+      "url": "demo.keystonejs.com/keystone/signin",
+      "website": "http://keystonejs.com"
+    },
     "Hinza Advanced CMS": {
       "cats": [
         "1",
